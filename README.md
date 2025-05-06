@@ -13,19 +13,19 @@ The agent can either "jump" or "do nothing".
 If it doesn't jump over an obstacle, it loses.
 
 ✅ High-Level Overview of the game
-State:
+#### State:
 
    0 = no obstacle ahead
    
    1 = obstacle ahead
    
-Actions:
+#### Actions: 
 
   0 = do nothing
   
   1 = jump
 
-Reward:
+#### Reward:
 
   +1 for surviving a step
   
