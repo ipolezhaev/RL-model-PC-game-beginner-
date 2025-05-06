@@ -1,8 +1,8 @@
-# RL-model-PC-game-beginner-
+# Reinforcement learning (RL)Flappy Bird
 
 Let's build a simple reinforcement learning (RL) model using Q-learning and a minimal custom environment — no gym needed.
 
-We'll simulate a very basic game like Flappy Bird or Dino Run:
+We'll simulate a very basic game like Flappy Bird:
 
 The agent is running in a 1D world.
 
