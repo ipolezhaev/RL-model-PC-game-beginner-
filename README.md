@@ -1,4 +1,4 @@
-# Reinforcement learning (RL)Flappy Bird
+# Reinforcement learning(RL) model Flappy Bird
 
 Let's build a simple reinforcement learning (RL) model using Q-learning and a minimal custom environment — no gym needed.
 
